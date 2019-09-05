@@ -1,6 +1,4 @@
----
-This is pretty ugly page for most academic and engineering projects.
----
+
 
 ### Selected Projects
 
