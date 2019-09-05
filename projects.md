@@ -22,22 +22,22 @@ micro-structures on PVC (02/2017 - 05/2017).
 ### Awards Academic Achievements & Funds
 
 
-Chinese University Hong Kong Ph.D.fellowship summer workshop  
-Black in AI, Black researchers travel grant 
-Chinese Government Full Scholarship Winner  
-Top 5 student at Tsinghua international summer school 2019 DCST  
-Zhejiang province Full Scholarship Winner 
-SRIP Student Funds for Research 
-Xin Miao Student Research Fund 
-Ningbo City Scholarship Winner 
+- Chinese University Hong Kong Ph.D.fellowship summer workshop  
+- Black in AI, Black researchers travel grant 
+- Chinese Government Full Scholarship Winner  
+- Top 5 student at Tsinghua international summer school 2019 DCST  
+- Zhejiang province Full Scholarship Winner 
+- SRIP Student Funds for Research 
+- Xin Miao Student Research Fund 
+- Ningbo City Scholarship Winner 
 
-European Space Agency (ESA) PROBA-V Super Resolution 2nd prize winner 
-EPAM Hackathon 3rd prize winner with Demeter
-Outstanding student award at Tsinghua university Deep learning summer school 
-Provincial innovation of internet award GOLD 1st prize winner 
-Provincial physics innovation competition 3rd Prize winner 
-Outstanding undergraduate student award 
-Prestigious high school student award 
-Certificate of Excellence 
-Certificate for Innovation 
+- European Space Agency (ESA) PROBA-V Super Resolution 2nd prize winner 
+- EPAM Hackathon 3rd prize winner with Demeter
+- Outstanding student award at Tsinghua university Deep learning summer school 
+- Provincial innovation of internet award GOLD 1st prize winner 
+- Provincial physics innovation competition 3rd Prize winner 
+- Outstanding undergraduate student award 
+- Prestigious high school student award 
+- Certificate of Excellence 
+- Certificate for Innovation 
 
