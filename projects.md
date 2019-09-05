@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Projects
+This is pretty ugly page for most academic and engineering projects.
 ---
 
 ### Selected Projects
@@ -19,7 +18,26 @@ micro-structures on PVC (02/2017 - 05/2017).
 - SMU file oriented anti malware (05/2016 - 09/2016).
 - Automated File Transfer Protocol (AFTP) (05/2015 - 10/2015).
 
-### Patents
 
-- Type 3D Axis Microscope (China Patent No. ZL 2018 2 0805917.2)
-- A device for detecting similar proportions between micro-structures on PVC (China Patent No. CN207036728U)
+### Awards Academic Achievements & Funds
+
+
+Chinese University Hong Kong Ph.D.fellowship summer workshop  
+Black in AI, Black researchers travel grant 
+Chinese Government Full Scholarship Winner  
+Top 5 student at Tsinghua international summer school 2019 DCST  
+Zhejiang province Full Scholarship Winner 
+SRIP Student Funds for Research 
+Xin Miao Student Research Fund 
+Ningbo City Scholarship Winner 
+
+European Space Agency (ESA) PROBA-V Super Resolution 2nd prize winner 
+EPAM Hackathon 3rd prize winner with Demeter
+Outstanding student award at Tsinghua university Deep learning summer school 
+Provincial innovation of internet award GOLD 1st prize winner 
+Provincial physics innovation competition 3rd Prize winner 
+Outstanding undergraduate student award 
+Prestigious high school student award 
+Certificate of Excellence 
+Certificate for Innovation 
+
