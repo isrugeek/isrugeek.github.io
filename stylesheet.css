@@ -16,7 +16,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Lato';how 
   font-style: italic;
   font-weight: 700;
   src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2) format('woff2');
@@ -128,4 +128,278 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+}
+/* Add some soft colors */
+body {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Add some padding and margin to elements */
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style the name */
+name {
+  font-size: 36px;
+  color: #1772d0;
+  font-weight: bold;
+}
+
+/* Add rounded corners to images */
+img {
+  border-radius: 8px;
+}
+
+/* Style headings */
+heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f09228;
+  margin-bottom: 10px;
+}
+
+/* Style papertitles */
+papertitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1772d0;
+}
+
+/* Style links */
+a {
+  color: #1772d0;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #f09228;
+}
+
+/* Add padding and background color to tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style table headings */
+table heading {
+  display: block;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #f09228;
+  color: #fff;
+}
+
+/* Add padding to table cells */
+td {
+  padding: 15px;
+  vertical-align: top;
+}
+/* Body and general styles */
+body {
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  width: 100%;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+/* Heading styles */
+heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #f09228;
+  margin-bottom: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Name style */
+name {
+  font-size: 48px;
+  font-weight: bold;
+  color: #1772d0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Papertitle styles */
+papertitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1772d0;
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Link styles */
+a {
+  color: #1772d0;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #f09228;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin: 0 auto 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Table headings */
+table heading {
+  display: block;
+  padding: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #1772d0;
+  color: #fff;
+  border-radius: 15px 15px 0 0;
+}
+
+/* Table cells */
+td {
+  padding: 20px;
+  vertical-align: top;
+}
+
+/* Images */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Padding and border for paragraphs */
+p {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Styling for text in italics */
+em {
+  font-style: italic;
+}
+
+/* Add more specific styles as needed for different elements */
+/* Additional styles */
+
+/* Style paragraphs */
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* Style the email and social links */
+body > table:nth-of-type(1) a {
+  margin-right: 10px;
+  color: #f09228;
+}
+
+/* Style the images in the paper section */
+table:nth-of-type(3) img {
+  max-width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+/* Style the patents section */
+table:nth-of-type(4) img {
+  max-width: 50px;
+  height: auto;
+  margin-right: 10px;
+}
+
+/* Adjust hover opacity for images */
+.one:hover .two {
+  opacity: 0.5;
+}
+
+/* Add a subtle hover effect to table rows */
+tr:hover {
+  background-color: #f7f7f7;
+}
+
+/* Adjust fonts for better readability */
+name,
+heading,
+papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+/* Style footer text */
+p[align="right"] {
+  font-size: 12px;
+  color: #777;
+}
+
+/* Add some border-radius and box shadow to tables */
+table {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the author's name */
+name {
+  font-size: 36px;
+  color: #1772d0;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+span.highlight {
+  background-color: #ffffd0;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f09228;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
 }
