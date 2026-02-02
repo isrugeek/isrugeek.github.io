@@ -66,12 +66,23 @@
 a {
   color: #1772d0;
   text-decoration: none;
+  transition: color 0.2s ease-in-out;
 }
 
 a:focus,
 a:hover {
   color: #f09228;
   text-decoration: none;
+}
+
+body {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
 body,
@@ -81,7 +92,7 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
+  font-size: 14px;
 }
 
 strong {
@@ -92,17 +103,29 @@ strong {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  color: #f09228;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  font-weight: 700
+  font-weight: 700;
+  color: #1772d0;
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+  color: #1772d0;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
 }
 
 .one {
@@ -120,6 +143,10 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+.one:hover .two {
+  opacity: 0.7;
+}
+
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
@@ -128,6 +155,24 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* For-fun polish: tables and rows */
+table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+tr:hover {
+  background-color: rgba(240, 146, 40, 0.04);
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 0.5em;
 }
 
 /* Projects page */
