@@ -129,3 +129,70 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* Projects page */
+.section-desc {
+  color: #444;
+  margin-bottom: 1.2em;
+  font-size: 14px;
+}
+
+.project-block {
+  margin-bottom: 1.2em;
+  padding: 14px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.project-block:last-child {
+  border-bottom: 0;
+}
+
+.project-title {
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.project-title a {
+  color: #1772d0;
+}
+
+.project-meta {
+  font-size: 13px;
+  color: #444;
+  line-height: 1.5;
+}
+
+.project-org {
+  font-weight: 400;
+  font-size: 13px;
+  color: #666;
+}
+
+.project-list {
+  margin: 8px 0 0 0;
+  padding-left: 20px;
+  font-size: 13px;
+  color: #444;
+  line-height: 1.6;
+}
+
+.project-list li {
+  margin-bottom: 6px;
+}
+
+.org-block .project-meta {
+  margin-top: 4px;
+}
+
+.awards-list {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 13px;
+  color: #444;
+  line-height: 1.7;
+}
+
+.awards-list li {
+  margin-bottom: 6px;
+}
